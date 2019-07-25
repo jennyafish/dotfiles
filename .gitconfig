@@ -1,0 +1,12 @@
+[user]
+	name = Jenny Fish
+	email = jafish@andrew.cmu.edu
+	username = jennyafish
+#[color]
+#	ui = auto
+#[color "status"]
+#	added = green bold
+#	changed = yellow bold
+#	untracked = red bold
+[alias]
+	branches = branch -a
